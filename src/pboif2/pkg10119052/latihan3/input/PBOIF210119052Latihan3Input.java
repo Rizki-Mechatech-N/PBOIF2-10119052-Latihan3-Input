@@ -4,9 +4,11 @@ import java.util.Scanner;
 
 /**
  *
- * Nama : Rizki Dwi Nugraha
- * Kelas : IF-2
- * NIM : 10119052
+ * NAMA   : Rizki Dwi nugraha
+ * KELAS  : IF-2
+ * NIM    : 10119052
+ * Deskripsi Program : Program ini berisi program untuk memproses & menampilkan 
+ * inputan
  * 
  */
 public class PBOIF210119052Latihan3Input {
